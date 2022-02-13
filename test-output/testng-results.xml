@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="225190" started-at="2019-04-28T09:22:13Z" finished-at="2019-04-28T09:25:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="225190" started-at="2019-04-28T09:22:13Z" finished-at="2019-04-28T09:25:59Z">
+      <class name="com.datadriventest.DataProvider123">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.DataProvider123@1060b431]" name="setUp" is-config="true" duration-ms="128327" started-at="2019-04-28T09:22:19Z" finished-at="2019-04-28T09:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EbayRegPage(java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.DataProvider123@1060b431]" name="EbayRegPage" duration-ms="28685" started-at="2019-04-28T09:24:27Z" data-provider="getTestData" finished-at="2019-04-28T09:24:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vaish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vaishali]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EbayRegPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.DataProvider123@1060b431]" name="tearDown" is-config="true" duration-ms="1887" started-at="2019-04-28T09:24:56Z" finished-at="2019-04-28T09:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.DataProvider123@1060b431]" name="setUp" is-config="true" duration-ms="22851" started-at="2019-04-28T09:24:58Z" finished-at="2019-04-28T09:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EbayRegPage(java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.DataProvider123@1060b431]" name="EbayRegPage" duration-ms="13890" started-at="2019-04-28T09:25:20Z" data-provider="getTestData" finished-at="2019-04-28T09:25:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vinay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vinay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EbayRegPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.DataProvider123@1060b431]" name="tearDown" is-config="true" duration-ms="8515" started-at="2019-04-28T09:25:34Z" finished-at="2019-04-28T09:25:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.DataProvider123@1060b431]" name="setUp" is-config="true" duration-ms="13775" started-at="2019-04-28T09:25:43Z" finished-at="2019-04-28T09:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EbayRegPage(java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.DataProvider123@1060b431]" name="EbayRegPage" duration-ms="1764" started-at="2019-04-28T09:25:57Z" data-provider="getTestData" finished-at="2019-04-28T09:25:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[maanvi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[maanvi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EbayRegPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.DataProvider123@1060b431]" name="tearDown" is-config="true" duration-ms="216" started-at="2019-04-28T09:25:58Z" finished-at="2019-04-28T09:25:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.datadriventest.DataProvider123 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
